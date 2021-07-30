@@ -1,4 +1,4 @@
-module github.com/crunchydata/postgres-operator
+module github.com/danihegglin/crunchydata
 
 go 1.15
 
